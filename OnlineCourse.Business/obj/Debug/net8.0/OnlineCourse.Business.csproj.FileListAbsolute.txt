@@ -1,0 +1,17 @@
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\bin\Debug\net8.0\OnlineCourse.Business.deps.json
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\bin\Debug\net8.0\OnlineCourse.Business.dll
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\bin\Debug\net8.0\OnlineCourse.Business.pdb
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\bin\Debug\net8.0\OnlineCourse.DataAccess.dll
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\bin\Debug\net8.0\OnlineCourse.Entities.dll
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\bin\Debug\net8.0\OnlineCourse.DataAccess.pdb
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\bin\Debug\net8.0\OnlineCourse.Entities.pdb
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\obj\Debug\net8.0\OnlineCourse.Business.csproj.AssemblyReference.cache
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\obj\Debug\net8.0\OnlineCourse.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\obj\Debug\net8.0\OnlineCourse.Business.AssemblyInfoInputs.cache
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\obj\Debug\net8.0\OnlineCourse.Business.AssemblyInfo.cs
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\obj\Debug\net8.0\OnlineCourse.Business.csproj.CoreCompileInputs.cache
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\obj\Debug\net8.0\OnlineCo.962CA68D.Up2Date
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\obj\Debug\net8.0\OnlineCourse.Business.dll
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\obj\Debug\net8.0\refint\OnlineCourse.Business.dll
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\obj\Debug\net8.0\OnlineCourse.Business.pdb
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Business\obj\Debug\net8.0\ref\OnlineCourse.Business.dll

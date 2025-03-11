@@ -1,0 +1,14 @@
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Entities\bin\Debug\net8.0\OnlineCourse.Entities.deps.json
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Entities\bin\Debug\net8.0\OnlineCourse.Entities.runtimeconfig.json
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Entities\bin\Debug\net8.0\OnlineCourse.Entities.dll
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Entities\bin\Debug\net8.0\OnlineCourse.Entities.pdb
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Entities\obj\Debug\net8.0\OnlineCourse.Entities.csproj.AssemblyReference.cache
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Entities\obj\Debug\net8.0\OnlineCourse.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Entities\obj\Debug\net8.0\OnlineCourse.Entities.AssemblyInfoInputs.cache
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Entities\obj\Debug\net8.0\OnlineCourse.Entities.AssemblyInfo.cs
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Entities\obj\Debug\net8.0\OnlineCourse.Entities.csproj.CoreCompileInputs.cache
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Entities\obj\Debug\net8.0\OnlineCourse.Entities.dll
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Entities\obj\Debug\net8.0\refint\OnlineCourse.Entities.dll
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Entities\obj\Debug\net8.0\OnlineCourse.Entities.pdb
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Entities\obj\Debug\net8.0\OnlineCourse.Entities.genruntimeconfig.cache
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.Entities\obj\Debug\net8.0\ref\OnlineCourse.Entities.dll

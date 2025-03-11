@@ -1,0 +1,250 @@
+[
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.KayitController",
+    "Method": "KayitOl",
+    "RelativePath": "api/Kayit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ogrenciId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "kursId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.KayitController",
+    "Method": "TumKayitlariGetir",
+    "RelativePath": "api/Kayit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.KayitController",
+    "Method": "GetByid",
+    "RelativePath": "api/Kayit/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.KayitController",
+    "Method": "KayitSil",
+    "RelativePath": "api/Kayit/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.KayitController",
+    "Method": "Update",
+    "RelativePath": "api/Kayit/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "kayit",
+        "Type": "OnlineCourse.Entities.Kayit",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.KursController",
+    "Method": "Get",
+    "RelativePath": "api/Kurs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.KursController",
+    "Method": "Create",
+    "RelativePath": "api/Kurs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "course",
+        "Type": "OnlineCourse.Entities.Kurs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.KursController",
+    "Method": "GetById",
+    "RelativePath": "api/Kurs/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.KursController",
+    "Method": "Put",
+    "RelativePath": "api/Kurs/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "course",
+        "Type": "OnlineCourse.Entities.Kurs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.KursController",
+    "Method": "DeleteById",
+    "RelativePath": "api/Kurs/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.OgrenciController",
+    "Method": "Get",
+    "RelativePath": "api/Ogrenci",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.OgrenciController",
+    "Method": "Post",
+    "RelativePath": "api/Ogrenci",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ogrenci",
+        "Type": "OnlineCourse.Entities.Ogrenci",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.OgrenciController",
+    "Method": "Get",
+    "RelativePath": "api/Ogrenci/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.OgrenciController",
+    "Method": "Put",
+    "RelativePath": "api/Ogrenci/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "ogrenci",
+        "Type": "OnlineCourse.Entities.Ogrenci",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineCourse.API.Controllers.OgrenciController",
+    "Method": "Delete",
+    "RelativePath": "api/Ogrenci/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

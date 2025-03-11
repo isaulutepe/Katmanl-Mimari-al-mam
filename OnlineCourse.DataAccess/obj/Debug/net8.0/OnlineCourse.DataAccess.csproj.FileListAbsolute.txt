@@ -1,0 +1,17 @@
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\bin\Debug\net8.0\OnlineCourse.DataAccess.deps.json
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\bin\Debug\net8.0\OnlineCourse.DataAccess.runtimeconfig.json
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\bin\Debug\net8.0\OnlineCourse.DataAccess.dll
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\bin\Debug\net8.0\OnlineCourse.DataAccess.pdb
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\bin\Debug\net8.0\OnlineCourse.Entities.dll
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\bin\Debug\net8.0\OnlineCourse.Entities.pdb
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\obj\Debug\net8.0\OnlineCourse.DataAccess.csproj.AssemblyReference.cache
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\obj\Debug\net8.0\OnlineCourse.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\obj\Debug\net8.0\OnlineCourse.DataAccess.AssemblyInfoInputs.cache
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\obj\Debug\net8.0\OnlineCourse.DataAccess.AssemblyInfo.cs
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\obj\Debug\net8.0\OnlineCourse.DataAccess.csproj.CoreCompileInputs.cache
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\obj\Debug\net8.0\OnlineCo.ADE794EA.Up2Date
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\obj\Debug\net8.0\OnlineCourse.DataAccess.dll
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\obj\Debug\net8.0\refint\OnlineCourse.DataAccess.dll
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\obj\Debug\net8.0\OnlineCourse.DataAccess.pdb
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\obj\Debug\net8.0\OnlineCourse.DataAccess.genruntimeconfig.cache
+D:\Yedek\Api Islemleri\OnlineCourse\OnlineCourse.DataAccess\obj\Debug\net8.0\ref\OnlineCourse.DataAccess.dll
